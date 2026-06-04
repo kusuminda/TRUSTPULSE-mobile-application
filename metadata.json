@@ -1,0 +1,6 @@
+{
+  "name": "TrustPulse Mobile",
+  "description": "Privacy-First Endpoint Posture Validation and BYOD compliance gateway simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
